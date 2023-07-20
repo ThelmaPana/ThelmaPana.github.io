@@ -1,0 +1,8 @@
+install.packages("xfun")
+install.packages('xfun')
+install.packages("usethis")
+install.packages("usethis")
+pkg_list <- c("rmarkdown", "palmerpenguins", "gt", "tidyverse")
+# R base
+install.packages(pkg_list)
+install.packages(c("class", "KernSmooth", "MASS", "Matrix", "nnet"))

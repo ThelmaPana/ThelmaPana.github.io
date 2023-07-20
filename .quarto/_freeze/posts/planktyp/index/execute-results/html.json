@@ -1,0 +1,14 @@
+{
+  "hash": "ed4ab1b145a93fd6571b5c0943e4a860",
+  "result": {
+    "markdown": "---\ntitle: \"Planktyp\"\nauthor: \"Thelma Panaïotis\"\ndate: \"2021-02-04\"\ncategories: [R, paper with code]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

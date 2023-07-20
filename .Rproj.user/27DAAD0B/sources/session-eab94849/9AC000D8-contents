@@ -1,0 +1,12 @@
+---
+title: "Transcut"
+description: "A shiny app to cut transects from SEAEXPLORER with UVP6 missions."
+author: "Thelma Panaïotis"
+date: "2021-04-02"
+categories: [shiny, data processing, academic]
+image: "image.png"
+---
+
+This is a little shiny app to cut transects from glider data, based on yo depth and on a map. This process can be easily done with some code but I chose to design an app so that anyone can do it. Just like my other shiny apps, it is probably not the most efficient, but it works!
+
+<https://github.com/ThelmaPana/transcut>

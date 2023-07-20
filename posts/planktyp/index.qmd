@@ -1,0 +1,16 @@
+---
+title: "Planktyp"
+description: "Typology of Plankton Communities seen by In Situ Imaging in the First 500 m of the Global Ocean"
+author: "Thelma Panaïotis"
+date: "2021-02-04"
+categories: [R, data analysis, paper with code, academic]
+image: "image.png"
+---
+
+This is the code supporting my paper "Three mesoplanktonic worlds resolved by *in situ* imaging in the upper 500 m of the global ocean", currently under review in Global Ecology and Biogeography.
+
+It consists of data extraction, a lot of data processing/cleaning, a few multivariate analyses and nice visualisations.
+
+<https://github.com/ThelmaPana/planktyp>
+
+The preprint is available [here](main_text_hal.pdf){target="_blank"}.

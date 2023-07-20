@@ -1,0 +1,14 @@
+---
+title: "Happy Plants"
+description: "A shiny app to help you look after your plants."
+author: "Thelma Panaïotis"
+date: "2021-02-13"
+categories: [shiny, miscellaneous]
+image: "image.png"
+---
+
+I have many, **many** plants (but you can never have enough plants, right?), and knowing when to water each one is not easy. You have to take into account the water and fertiliser requirements of each plant, as well as the season. To make my job easier, I've created this app, which gives me a daily list of plants to water. I declare in the app which plants I've actually watered (some may only need watering in a day or two), and it updates the database, including the last watering date, so that the next watering date is computed. The same goes for fertiliser.
+
+It's certainly not coded in the best possible way, but it works, and my plants are happy!
+
+The code is here: <https://github.com/ThelmaPana/happy_plants>
