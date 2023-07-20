@@ -1,4 +1,6 @@
-.Rproj.user/*
-.quarto/*
+/.Rproj.user/*
+/.quarto/*
+/_extensions/*
+/_site/*
 .DS_Store
 .Rhistory
