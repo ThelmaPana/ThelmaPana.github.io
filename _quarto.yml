@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thelma Panaïotis"
+  navbar:
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - publications.qmd
+     - posts.qmd
+     - about.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
