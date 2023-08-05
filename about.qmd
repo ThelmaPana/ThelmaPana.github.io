@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-![](pics/about_me.jpg){fig-align="center"}
+![](pics/about_me.jpg){fig-align="center" width="300"}
 
 I am a recent PhD graduate from the Laboratoire d'Océanographie de Villefranche (France). I develop and apply machine learning tools to study large plankton datasets in order to investigate its distribution at various scales.
 
@@ -10,7 +10,7 @@ Overall, I like applying computational tools to solve practical problems, and no
 
 ------------------------------------------------------------------------
 
-Outside of the work place, I enjoy a wide range of sporting activities. I mainly ride my road bike (long live bike commuting!), I also regularly do weight training and a little less regularly run. I also take advantage of the LOV's exceptional location to regularly take a dip in the Mediterranean Sea and perhaps someday improve my swimming skills, with the hope of one day completing a triathlon. I'm also lucky enough to live in a magnificent region that offers many hiking routes.
+Outside of the work place, I enjoy a wide range of sporting activities. I mainly ride my road bike (long live bike commuting!), I also regularly do weight training and a little less regularly run. I've also recently taken up triathlon, but I have to say that swimming isn't my strong point, so at least that leaves me plenty of room for improvement! Finally, I'm lucky enough to live in a magnificent region that offers many hiking routes.
 
 I also practiced roller derby for 3 years, first with the Western Australia Roller Derby, in Perth, and then in Nice with the Nice Roller Derby.
 
