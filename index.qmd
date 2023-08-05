@@ -1,6 +1,6 @@
 ---
 title: "Thelma Panaïotis"
-image: me.jpg
+image: pics/me.jpg
 about: 
   template: solana
   image-shape: rounded

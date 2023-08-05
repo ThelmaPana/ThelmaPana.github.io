@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-![](about_me.jpg){width="50%" fig-align="center"}
+![](pics/about_me.jpg){fig-align="center"}
 
 I am a recent PhD graduate from the Laboratoire d'Océanographie de Villefranche (France). I develop and apply machine learning tools to study large plankton datasets in order to investigate its distribution at various scales.
 
