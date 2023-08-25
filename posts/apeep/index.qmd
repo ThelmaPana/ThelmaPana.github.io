@@ -1,0 +1,12 @@
+---
+title: "Apeep"
+description: "Process ISIIS data without a peep"
+author: "Thelma Panaïotis"
+date: "2021-03-11"
+categories: [Python, data processing, paper with code, academic]
+image: "image.png"
+---
+
+[`Apeep`](https://github.com/jiho/apeep) is a set of tools to process images produced by the In Situ Ichthyoplankton Imaging System ([ISIIS](https://doi.org/10.3389/fmars.2022.870005)), initially developed by [Jean-Olivier Irisson](http://www.obs-vlfr.fr/~irisson/). I then contributed to its development by integrating intelligent segmentation as described in my paper published in Frontiers in Marine Science: [Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images](https://doi.org/10.3389/fmars.2022.870005). 
+
+My contributions are probably not coded in the best possible way (in my defence, I am originally a biologist), but it works, and we were able to deploy and run the pipeline on three different supercomputers. It took ~250h of GPU computing to process the 16 TB of data from the VISUFRONT campaign.
