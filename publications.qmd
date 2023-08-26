@@ -6,25 +6,25 @@ title: ""
 
 ### 2023
 
-**T Panaïotis**, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, R Kiko, F Lombard, AMP McDonnell, M Picheral, A Rogge, AM Waite, L Stemmann, JO Irisson, Three major mesoplanktonic communities resolved by in situ imaging in the upper 500 m of the global ocean. *Global Ecology and Biogeography*, in press. [Preprint](posts/planktyp/main_text_hal.pdf){target="_blank"}.
+**T Panaïotis**, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, R Kiko, F Lombard, AMP McDonnell, M Picheral, A Rogge, AM Waite, L Stemmann and JO Irisson (2023). Three major mesoplanktonic communities resolved by in situ imaging in the upper 500 m of the global ocean. *Global Ecology and Biogeography*. [10.1111/geb.13741](https://doi.org/10.1111/geb.13741)
 
-**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral, JO Irisson, Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. Submitted to *Limnology and Oceanography*.
+**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral and JO Irisson. Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. Submitted to *Limnology and Oceanography*.
 
-**T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen, JO Irisson. High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. Written as thesis chapter #6, to be submitted to *PNAS*.
+**T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson. High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. Written as thesis chapter #6, to be submitted to *PNAS*.
 
-**T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, T Biard, B Blanc, L Caray--Counil, C Desnos, A Elineau, L Jalabert, R Kiko, F Lombard, M Picheral, JB Romagnan, L Stemmann, JO Irisson, Classification benchmark for several large plankton images datasets: Convolutional Neural Networks improve detection of rare taxa. Written as thesis chapter #3, to be submitted to *Limnology and Oceanography: Methods*.
+**T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, T Biard, B Blanc, L Caray--Counil, C Desnos, A Elineau, L Jalabert, R Kiko, F Lombard, M Picheral, JB Romagnan, L Stemmann and JO Irisson. Classification benchmark for several large plankton images datasets: Convolutional Neural Networks improve detection of rare taxa. Written as thesis chapter #3, to be submitted to *Limnology and Oceanography: Methods*.
 
 ### 2022
 
-**T Panaïotis**, L Caray--Counil, B Woodward, MS Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen, and J-O Irisson. Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. In: *Frontiers in Marine Science* 9 (2022). [10.3389/fmars.2022.870005](https://doi.org/10.3389/fmars.2022.870005)
+**T Panaïotis**, L Caray--Counil, B Woodward, MS Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen and J-O Irisson (2022). Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *Frontiers in Marine Science* 9. [10.3389/fmars.2022.870005](https://doi.org/10.3389/fmars.2022.870005)
 
-L Drago, **T Panaïotis**, JO Irisson, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, F Lombard, AMP McDonnell, M Picheral, A Rogge, AM Waite, L Stemmann, R Kiko, Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, *Frontiers in Marine Science*, 9. [10.3389/fmars.2022.894372](https://doi.org/10.3389/fmars.2022.894372)
+L Drago, **T Panaïotis**, JO Irisson, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, F Lombard, AMP McDonnell, M Picheral, A Rogge, AM Waite, L Stemmann and R Kiko (2022). Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning. *Frontiers in Marine Science*, 9. [10.3389/fmars.2022.894372](https://doi.org/10.3389/fmars.2022.894372)
 
-AT Greer, MS Schmid, PI Duffy, KL Robinson, MA Genung, JY Luo, **T Panaïotis**, C Briseño-Avena, ME Frischer, S Sponaugle, RK Cowen, In situ imaging across ecosystems to resolve the fine-scale oceanographic drivers of a globally significant planktonic grazer, *Limnology and Oceanography*, 68, 192-207. [10.1002/lno.12259](https://doi.org/10.1002/lno.12259)
+AT Greer, MS Schmid, PI Duffy, KL Robinson, MA Genung, JY Luo, **T Panaïotis**, C Briseño-Avena, ME Frischer, S Sponaugle and RK Cowen (2022). In situ imaging across ecosystems to resolve the fine-scale oceanographic drivers of a globally significant planktonic grazer. *Limnology and Oceanography*, 68, 192-207. [10.1002/lno.12259](https://doi.org/10.1002/lno.12259)
 
 ### 2018
 
-A Guez, **T Panaïotis**, H Peyre, F Ramus. Predictors of the IQ-achievement gap in France: A longitudinal analysis, *Intelligence*, 69: 104-116. [10.1016/j.intell.2018.05.008](https://doi.org/10.1016/j.intell.2018.05.008)
+A Guez, **T Panaïotis**, H Peyre and F Ramus (2018). Predictors of the IQ-achievement gap in France: A longitudinal analysis. *Intelligence*, 69: 104-116. [10.1016/j.intell.2018.05.008](https://doi.org/10.1016/j.intell.2018.05.008)
 
 ------------------------------------------------------------------------
 
@@ -32,23 +32,23 @@ A Guez, **T Panaïotis**, H Peyre, F Ramus. Predictors of the IQ-achievement gap
 
 ### 2023
 
-**T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen, JO Irisson, High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. *ASLO Aquatic Science Meeting*, Palma de Majorque, Spain.
+**T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson (2023). High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. *ASLO Aquatic Science Meeting*, Palma de Majorque, Spain.
 
-**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral, JO Irisson, Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. *ASLO Aquatic Science Meeting*, Palma de Majorque, Spain. Presented by JO Irisson.
+**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral and JO Irisson (2023). Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. *ASLO Aquatic Science Meeting*, Palma de Majorque, Spain. Presented by JO Irisson.
 
 ### 2022
 
-**T Panaïotis**, L Caray--Counil, B Woodward, S Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen, and JO Irisson. Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *ICES Annual Science Conference* (Dublin, Ireland).
+**T Panaïotis**, L Caray--Counil, B Woodward, S Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen and JO Irisson (2022). Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *ICES Annual Science Conference* (Dublin, Ireland).
 
-**T Panaïotis**, L Caray-Counil, R Faillettaz, JY Luo, CM Guigand, RK Cowen, and JO Irisson. Meter-Scale Plankton Distribution across a Mesoscale Front. *Ocean Sciences Meeting* (Virtual Meeting).
+**T Panaïotis**, L Caray-Counil, R Faillettaz, JY Luo, CM Guigand, RK Cowen and JO Irisson (2022). Meter-Scale Plankton Distribution across a Mesoscale Front. *Ocean Sciences Meeting* (Virtual Meeting).
 
 ### 2021
 
-**T Panaïotis**, G Boniface-Chang, G Dulac-Arnold, B Woodward and JO Irisson. Benchmark of Image Classification Using Several Large Plankton Datasets: Convolutional Neural Networks Improve Detection of Rare Taxa. *Aquatic Sciences Meeting* (Virtual Meeting).
+**T Panaïotis**, G Boniface-Chang, G Dulac-Arnold, B Woodward and JO Irisson (2021). Benchmark of Image Classification Using Several Large Plankton Datasets: Convolutional Neural Networks Improve Detection of Rare Taxa. *Aquatic Sciences Meeting* (Virtual Meeting).
 
 ### 2020
 
-**T Panaïotis**, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, R Kiko, F Lombard, A MP McDonnell, M Picheral, A Rogge, A M Waite, L Stemmann and JO Irisson. Typology of Plankton Communities Seen by In Situ Imaging, from the Epi to the Mesopelagic Layers of the Global Ocean. *Ocean Sciences Meeting* (San Diego).
+**T Panaïotis**, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, R Kiko, F Lombard, A MP McDonnell, M Picheral, A Rogge, A M Waite, L Stemmann and JO Irisson (2020). Typology of Plankton Communities Seen by In Situ Imaging, from the Epi to the Mesopelagic Layers of the Global Ocean. *Ocean Sciences Meeting* (San Diego).
 
 ------------------------------------------------------------------------
 
@@ -56,16 +56,18 @@ A Guez, **T Panaïotis**, H Peyre, F Ramus. Predictors of the IQ-achievement gap
 
 ### 2022
 
-**T Panaïotis**, L Caray--Counil, B Woodward, MS Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen, and JO Irisson. Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *ImaginEcology2* (Lyon).
+**T Panaïotis**, L Caray--Counil, B Woodward, MS Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen, and JO Irisson (2022). Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *ImaginEcology2* (Lyon).
 
-**T Panaïotis**, A Poteau, E Riquier, M Picheral, C Catalano, L Coppola and JO Irisson. Fine-scale plankton distribution across the Ligurian Front from glider and UVP6. *UVP users meeting* (Villefranche-sur-Mer).
+**T Panaïotis**, A Poteau, E Riquier, M Picheral, C Catalano, L Coppola and JO Irisson (2022). Fine-scale plankton distribution across the Ligurian Front from glider and UVP6. *UVP users meeting* (Villefranche-sur-Mer).
 
-**T Panaïotis**, L Caray-Counil, R Faillettaz, JY Luo, CM Guigand, RK Cowen, and JO Irisson. Meter-Scale Plankton Distribution across a Mesoscale Front. *FORMAL Winter Webinars* (Virtual Meeting).
+**T Panaïotis**, B Woodward, L Caray-Counil and JO Irisson (2022). Extraction d'informations écologiques à partir de gros volumes de données d'imagerie quantitative. *Journée Bio-informatique, BioGenOuest* (Virtual Meeting). Présenté par JO Irisson.
+
+**T Panaïotis**, L Caray-Counil, R Faillettaz, JY Luo, CM Guigand, RK Cowen and JO Irisson (2022). Meter-Scale Plankton Distribution across a Mesoscale Front. *FORMAL Winter Webinars* (Virtual Meeting).
 
 ### 2021
 
-**T Panaïotis**. CNN for classification and segmentation of grayscale plankton images. *ISCD-FORMAL Marine Big Data* (Virtual Meeting).
+**T Panaïotis** (2021). CNN for classification and segmentation of grayscale plankton images. *ISCD-FORMAL Marine Big Data* (Virtual Meeting).
 
 ### 2020
 
-**T Panaïotis** and L Vilgrain. Plankton Imaging Data. *ISCD-FORMAL Marine Big Data* (Virtual Meeting).
+**T Panaïotis** and L Vilgrain (2020). Plankton Imaging Data. *ISCD-FORMAL Marine Big Data* (Virtual Meeting).
