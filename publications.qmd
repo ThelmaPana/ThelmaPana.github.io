@@ -71,3 +71,15 @@ A Guez, **T Panaïotis**, H Peyre and F Ramus (2018). Predictors of the IQ-achie
 ### 2020
 
 **T Panaïotis** and L Vilgrain (2020). Plankton Imaging Data. *ISCD-FORMAL Marine Big Data* (Virtual Meeting).
+
+------------------------------------------------------------------------
+
+# Reports
+
+**PhD Thesis** \| Plankton distribution across scales: contribution from artificial intelligence to plankton ecology \| Supervised by Dr Jean-Olivier Irisson \| Laboratoire d'Océanographie de Villefranche. [Manuscript](reports/panaiotis_thesis_revised.pdf){target="_blank"}
+
+**Master's intership** \| Typology of plankton communities seen by *in situ* imaging \| Supervised by Dr Jean-Olivier Irisson and Pr Lars Stemmann \| Laboratoire d'Océanographie de Villefranche. [Report (French)](reports/Rapport_M2_Thelma_Panaiotis.pdf){target="_blank"}
+
+**Master's intership** \| Dynamics of fish schooling behaviour in relation to predator abundance \| Supervised by Prof Jessica Meeuwig, Dr Phil Bouchet and Dr Shanta Barley \| Centre for Marine Futures, University of Western Australia, Perth, Australia. [Report](reports/PANAIOTIS_ARPE_Thesis_final.pdf){target="_blank"}
+
+**Master's intership** \| Effect of priority education facilities on the IQ-achievement gap \| Supervised by Franck Ramus and Hugo Peyre \| Laboratoire de Sciences Cognitives et Psycholinguistique, École Normale Supérieure. [Report (French)](reports/Rapport%20stage%20M1.pdf){target="_blank"}

@@ -19,47 +19,19 @@ Hi! I am a Computational Plankton Ecologist. This means that I study plankton ec
 
 ------------------------------------------------------------------------
 
-# Education
+# Curriculum
 
-|           |                                                                                                        |
-|-------------------|-----------------------------------------------------|
-| 2019-2023 | **PhD Thesis in Ecology**, Sorbonne Université, France                                                 |
-| 2018-2019 | **Master in Marine Sciences**, Sorbonne Université, France                                             |
-| 2017      | **"Agrégation" in Life Sciences, Earth and Universe Sciences**, rank 15/1500, ENS Paris-Saclay, France |
-| 2014-2015 | **BSc in Biology**, ENS Paris-Saclay, France                                                           |
-| 2014      | Admitted into **École Normale Supérieure Paris-Saclay**, rank 37/700                                   |
+Current \| **Research Scientist**, *Zooplankton diversity in biogeochemical modelling using machine learning*, National Oceanography Centre, Southampton, UK.
 
-------------------------------------------------------------------------
+2019-2023 \| **PhD Thesis in Ecology**, *Plankton distribution across scales: contribution from artificial intelligence to plankton ecology*, Laboratoire d’Océanographie de Villefranche, Sorbonne Université, France. [Manuscript](reports/panaiotis_thesis_revised.pdf){target="_blank"}
 
-# Research
+2018-2019 \| **Master in Marine Sciences**, Sorbonne Université, France.
 
-Current \| **Research Scientist** \| Zooplankton diversity in biogeochemical modelling using machine learning \| National Oceanography Centre, Southampton, UK.
+2017 \| **"Agrégation" in Life Sciences, Earth and Universe Sciences**, rank 15/1500, ENS Paris-Saclay, France.
 
-2019 - 2023 \| **PhD Thesis** \| Plankton distribution across scales: contribution from artificial intelligence to plankton ecology \| Laboratoire d'Océanographie de Villefranche, France. [Manuscript](reports/panaiotis_thesis_revised.pdf){target="_blank"}
+2014-2015 \| **BSc in Biology**, ENS Paris-Saclay, France.
 
-2019 \| **Master's intership** \| Typology of plankton communities seen by *in situ* imaging \| Laboratoire d'Océanographie de Villefranche, France. [Report (French)](reports/Rapport_M2_Thelma_Panaiotis.pdf){target="_blank"}
-
-2017 - 2018 \| **Master's intership** \| Dynamics of fish schooling behaviour in relation to predator abundance \| Centre for Marine Futures, University of Western Australia, Perth, Australia. [Report](reports/PANAIOTIS_ARPE_Thesis_final.pdf){target="_blank"}
-
-2016 \| **Master's intership** \| Effect of priority education facilities on the IQ-achievement gap \| Laboratoire de Sciences Cognitives et Psycholinguistique, École Normale Supérieure, France. [Report (French)](reports/Rapport%20stage%20M1.pdf){target="_blank"}
-
-------------------------------------------------------------------------
-
-# Teaching
-
-**Master in Marine Sciences** \| Sorbonne Université
-
--   Methods for the Exploitation of Data in Oceanography
-
--   Response of the pelagos to environmental changes
-
--   Multivariate Analyses for Marine Ecology
-
-**Bachelor in Biology** \| Sorbonne Université
-
--   Exploration of pelagic marine ecosystems from autonomous platforms
-
--   Immersion in a marine station
+2014 \| Admitted into **École Normale Supérieure Paris-Saclay**, rank 37/700.
 
 ------------------------------------------------------------------------
 
@@ -90,3 +62,21 @@ Current \| **Research Scientist** \| Zooplankton diversity in biogeochemical mod
 -   English: fluent
 
 -   Spanish: intermediate
+
+------------------------------------------------------------------------
+
+# Teaching
+
+**Master in Marine Sciences** \| Sorbonne Université
+
+-   Methods for the Exploitation of Data in Oceanography
+
+-   Response of the pelagos to environmental changes
+
+-   Multivariate Analyses for Marine Ecology
+
+**Bachelor in Biology** \| Sorbonne Université
+
+-   Exploration of pelagic marine ecosystems from autonomous platforms
+
+-   Immersion in a marine station
