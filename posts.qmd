@@ -1,5 +1,5 @@
 ---
-title: "Coding projects"
+title: "Code"
 listing:
   contents: posts
   sort: "date desc"
@@ -11,4 +11,4 @@ page-layout: full
 title-block-banner: false
 ---
 
-I love coding. This page contains my coding projects, both professional and personal. This includes code supporting papers I have written, data processing pipelines, as well as shiny apps, for academic purposes, or just to make my life easier. Take a look around!
+I truly enjoy coding. This page contains the coding projects I developed or contributed to, both professional and personal. This includes code supporting papers I have written, data processing pipelines, as well as shiny apps, for academic purposes, or just to make my life easier. Take a look around!
