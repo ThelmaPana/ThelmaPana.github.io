@@ -3,7 +3,7 @@ title: "Happy Plants"
 description: "A shiny app to help you look after your plants."
 author: "Thelma Panaïotis"
 date: "2021-02-13"
-categories: [shiny, miscellaneous]
+categories: [shiny, miscellaneous, YAUSA (yet another useless shiny app)]
 image: "image.png"
 ---
 

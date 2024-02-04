@@ -3,7 +3,7 @@ title: "weightR"
 description: "A shiny app to let you now how much you should lift today."
 author: "Thelma Panaïotis"
 date: "2023-07-09"
-categories: [shiny, miscellaneous]
+categories: [shiny, miscellaneous, YAUSA (yet another useless shiny app)]
 image: "image.png"
 ---
 
