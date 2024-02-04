@@ -3,11 +3,22 @@ title: "RideR"
 description: "Predict riding time and average speed for new rides."
 author: "Thelma Panaïotis"
 date: "2024-01-29"
-categories: [shiny, miscellaneous]
+categories: [shiny, miscellaneous, YAUSA (yet another useless shiny app)]
 image: "image.jpg"
 ---
 
-I work out regularly, and to make my little Kermit (see below) legs bigger, I always have to lift more. But how much more?  Well, there are several ways of doing this, but it always involves a number of calculations, taking into account the performance of the last session and the weight of the bar. And that's not counting the calculation of the weights to be lifted for warm up. In the end, it's not that complicated, but it can be made easier with Shiny!
+− I’m going for a ride!
 
-<https://github.com/ThelmaPana/RideR>
+− How long is it gonna take?
 
+− Hum, not sure… 3 hours I guess
+
+…
+
+\*Proceeds to come home 4 hours later, didn’t think it was so hilly.\*
+
+Well, this will not happen anymore: enters RideR, a shiny app to predict the time of your future ride, based on distance and elevation and how you did in your previous rides.
+
+Basically, it is based on a XGBoost model trained with previous rides data, including distance, elevation and time on the bike. For now, it does not perform amazingly well, because I only had a few dozens of training elements (i.e. rides). There is only one way to remedy this: saddle up!
+
+Source code: <https://github.com/ThelmaPana/RideR>
