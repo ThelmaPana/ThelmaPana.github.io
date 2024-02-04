@@ -12,6 +12,7 @@ website:
      - publications.qmd
      - posts.qmd
      - about.qmd
+     - activities.qmd
 
 format:
   html:

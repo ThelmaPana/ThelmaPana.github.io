@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/RideR/index.html",
       "/posts/glider_uvp6/index.html",
       "/posts/weightR/index.html",
       "/posts/segmentation_benchmark/index.html",
