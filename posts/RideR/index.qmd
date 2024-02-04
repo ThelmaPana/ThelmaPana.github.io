@@ -1,0 +1,13 @@
+---
+title: "RideR"
+description: "Predict riding time and average speed for new rides."
+author: "Thelma Panaïotis"
+date: "2024-01-29"
+categories: [shiny, miscellaneous]
+image: "image.jpg"
+---
+
+I work out regularly, and to make my little Kermit (see below) legs bigger, I always have to lift more. But how much more?  Well, there are several ways of doing this, but it always involves a number of calculations, taking into account the performance of the last session and the weight of the bar. And that's not counting the calculation of the weights to be lifted for warm up. In the end, it's not that complicated, but it can be made easier with Shiny!
+
+<https://github.com/ThelmaPana/RideR>
+

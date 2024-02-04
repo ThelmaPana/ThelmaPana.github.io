@@ -1,0 +1,63 @@
+---
+title: "Outdoor activities"
+---
+
+Here's a map of my wanderings on land and sea (since January 2022), including cycling, running, hiking and swimming (but excluding bike commuting!)
+
+```{r}
+#| echo: False
+#| warning: False
+#| fig.height: 8
+
+library(tidyverse)
+library(leaflet)
+library(sf)
+
+# Read data
+lines_sf <- read_sf("garmin/activities.geojson")
+
+# Define colour for each activity
+colours <- tribble(
+  ~activity, ~colour,
+  "road cycling", "#f03b20",
+  "gravel cycling", "#fd8d3c",
+  "bicycle touring", "#fecc5c",
+  "hiking", "#006837",
+  "walking", "#78c679",
+  "open water swimming", "#3376BD",
+  "running", "#8c6bb1",
+  "trail running", "#810f7c"
+)
+
+# Base map
+map <- leaflet() %>% 
+  addProviderTiles("Esri.WorldTopoMap") %>% 
+  setView(lng = 0, lat = 47, zoom = 5)
+
+# Add lines for each type of activity
+activity_types <- sort(unique(lines_sf$activity))
+
+for (type in activity_types){
+  colour_type <- colours %>% filter(activity == type) %>% pull(colour)
+  lines_sf_type <- lines_sf %>% filter(activity == type)
+  
+  map <- map %>% 
+    addPolylines(
+      data = lines_sf_type,
+      color = colour_type,
+      opacity = 0.9
+      )
+}
+
+# Add legend
+map <- map %>% 
+  addLegend(
+    "topright", 
+    colors = colours$colour,
+    labels = colours$activity,
+    opacity = 1
+    )
+
+# Return map
+map
+```
