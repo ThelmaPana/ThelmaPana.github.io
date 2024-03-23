@@ -7,10 +7,10 @@ categories: [R, data analysis, paper with code, academic]
 image: "image.png"
 ---
 
-This is the code supporting my paper "Three mesoplanktonic worlds resolved by *in situ* imaging in the upper 500 m of the global ocean", currently under review in Global Ecology and Biogeography.
+This is the code supporting my paper on plankton communities seen by in situ imaging.
+
+**T Panaïotis**, M Babin, T Biard, F Carlotti, L Coppola, L Guidi, H Hauss, L Karp-Boss, R Kiko, F Lombard, AMP McDonnell, M Picheral, A Rogge, AM Waite, L Stemmann and JO Irisson (2023). Three major mesoplanktonic communities resolved by in situ imaging in the upper 500 m of the global ocean. *Global Ecology and Biogeography*. [10.1111/geb.13741](https://doi.org/10.1111/geb.13741)
 
 It consists of data extraction, a lot of data processing/cleaning, a few multivariate analyses and nice visualisations.
 
 <https://github.com/ThelmaPana/planktyp>
-
-The preprint is available [here](main_text_hal.pdf){target="_blank"}.
