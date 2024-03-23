@@ -9,6 +9,7 @@ library(tidyverse)
 library(FITfileR)
 library(sf)
 library(chroma)
+library(parallel)
 
 # List fit files
 fit_files <- list.files("~/HealthData/FitFiles/Activities/", pattern = "*.fit", full.names = TRUE)
@@ -48,29 +49,13 @@ extract_garmin_data <- function(file){
   }
 }
 
-## extract all data
-#all_activities <- map_dfr(fit_files, extract_garmin_data)
-#unique(all_activities$activity_type)
-#unique(all_activities$activity_subtype)
 
 
-df_all <- tibble()
-for(i in 1:length(fit_files)){
-  df <- extract_garmin_data(fit_files[i])
+all_activities <- mclapply(1:length(fit_files), function(i) {
+  extract_garmin_data(fit_files[i])
+}, mc.cores = 4) %>%
+  bind_rows()
 
-  if (nrow(df_all) == 0){
-    df_all <- df
-  } else {
-    df_all <- bind_rows(df_all, df)
-  }
-
-  if (i %% 10 == 0){print(paste0("Done with ", i , " out of ", length(fit_files)))}
-}
-
-
-#file = "/Users/oblade94/HealthData/FitFiles/Activities//11936919539_ACTIVITY.fit"
-
-all_activities <- df_all
 
 # Keep only certain activities
 all_activities <- all_activities %>%
@@ -109,6 +94,7 @@ lines_list <- all_activities %>%
 lines_sf <- st_as_sf(lines_list)
 
 # Save
+file.remove("garmin/activities.geojson")
 write_sf(lines_sf, "garmin/activities.geojson", quiet = TRUE)
 
 
