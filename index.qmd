@@ -1,5 +1,6 @@
 ---
 title: "Thelma Panaïotis"
+subtitle: "Research Scientist"
 image: pics/me.jpg
 about: 
   template: solana
@@ -10,12 +11,14 @@ about:
       text: Github
       href: https://github.com/ThelmaPana
     - text: Email
-      href: mailto:thelma.panaiotis@imev-mer.fr
+      href: mailto:thelma.panaiotis@noc.ac.uk
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Thelma-Panaiotis
 ---
 
-Hi! I am a Computational Plankton Ecologist. This means that I study plankton ecology from very large datasets, which I torture using diverse computational tools. I am currently a Research Scientist at the National Oceanography Centre ([NOC](https://noc.ac.uk/)) in Southampton, UK.
+# Hi!
+
+I am a research scientist at the National Oceanography Centre ([NOC](https://noc.ac.uk/)) in Southampton, UK. My research explores the application of machine learning to improve our understanding and representation of zooplankton diversity in biogeochemical models as well as various aspects of oceanography. As a numerical ecologist, I am particularly interested in plankton ecology and distribution. My work primarily involves developing and using computational approaches, including multivariate statistics, machine learning, and deep learning, to analyze large oceanic datasets.
 
 ------------------------------------------------------------------------
 
