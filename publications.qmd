@@ -6,13 +6,15 @@ title: ""
 
 ### 2024
 
-**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral and JO Irisson. Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. *Limnology and Oceanography*, in press. [10.1002/lno.12566](https://doi.org/10.1002/lno.12566)
+**T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral and JO Irisson. Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. *Limnology and Oceanography*. [10.1002/lno.12566](https://doi.org/10.1002/lno.12566)
 
 M Laget, L Drago, **T Panaïotis**, R Kiko, L Stemmann, A Rogge, N Llopis-Monferrer, A Leynaert, JO Irisson and T Biard. Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. *Nature Communications* **15**: 3341. [10.1038/s41467-024-47651-4](http://dx.doi.org/10.1038/s41467-024-47651-4)
 
 M Dugenne, M Corrales-Ugalde, JY Luo, R Kiko, TD O'Brien, JO Irisson, F Lombard, L Stemmann, C Stock, CR Anderson, M Babin, N Bhairy, S Bonnet, F Carlotti, A Cornils, ET Crockford, P Daniel, C Desnos, L Drago, A Elineau, A Fischer, N Grandrémy, PL Grondin, L Guidi, C Guieu, H Hauss, K Hayashi, JA Huggett, L Jalabert, L Karp-Boss, KM Kenitz, RM Kudela, M Lescot, C Marec, A McDonnell, Z Mériguet, B Niehoff, M Noyon, **T Panaïotis**, E Peacock, M Picheral, E Riquier, C Roesler, JB Romagnan, HM Sosik, G Spencer, J Taucher, C Tilliette and M Vilain. First release of the Pelagic Size Structure database: global datasets of marine size spectra obtained from plankton imaging devices, Earth System Science Data, 16, 2971–2999, [10.5194/essd-16-2971-2024](https://doi.org/10.5194/essd-16-2971-2024)
 
 **T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, T Biard, B Blanc, L Caray--Counil, C Desnos, A Elineau, L Jalabert, R Kiko, F Lombard, M Picheral, JB Romagnan, L Stemmann and JO Irisson. Classification benchmark for several large plankton images datasets: Convolutional Neural Networks improve detection of rare taxa. Submitted to *Limnology and Oceanography: Methods*.
+
+**T Panaïotis**, J Wilson and BB Cael. A machine learning-based dissolved organic carbon climatology. Submitted to *Limnology and Oceanography: Letters*.
 
 **T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson. High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. Written as thesis chapter #6, to be submitted to *PNAS*.
 
@@ -62,13 +64,15 @@ A Guez, **T Panaïotis**, H Peyre and F Ramus (2018). Predictors of the IQ-achie
 
 ### 2024
 
-**T Panaïotis**, J Wilson and BB Cael. A Machine Learning based Climatology of Dissolved Organic Carbon. *Machine Learning for Earth Observation Workshop* (Exeter, UK). [Poster](reports/Poster_DOC.pdf).
+**T Panaïotis** and BB Cael (2024). Machine Learning for feature detection: linking zooplankton diversity and particulate organic carbon. *CALIPSO annual meeting* (Norwich, UK). [Slides](reports/2024_calipso_ml.pdf)
+
+**T Panaïotis**, J Wilson and BB Cael. A Machine Learning based Climatology of Dissolved Organic Carbon. *Machine Learning for Earth Observation Workshop* (Exeter, UK). [Poster](reports/Poster_DOC.pdf)
 
 ### 2022
 
 **T Panaïotis**, L Caray--Counil, B Woodward, MS Schmid, D Daprano, ST Tsai, CM Sullivan, RK Cowen, and JO Irisson (2022). Content-Aware Segmentation of Objects Spanning a Large Size Range: Application to Plankton Images. *ImaginEcology2* (Lyon, France).
 
-**T Panaïotis**, A Poteau, E Riquier, M Picheral, C Catalano, L Coppola and JO Irisson (2022). Fine-scale plankton distribution across the Ligurian Front from glider and UVP6. *UVP users meeting* (Villefranche-sur-Mer, France).
+**T Panaïotis**, A Poteau, E Riquier, M Picheral, C Catalano, L Coppola and JO Irisson (2022). Fine-scale plankton distribution across the Ligurian Front from glider and UVP6. *UVP users meeting* (Villefranche-sur-Mer, France). [Slides](reports/2022_uvp_meeting.pdf)
 
 **T Panaïotis**, B Woodward, L Caray-Counil and JO Irisson (2022). Extraction d'informations écologiques à partir de gros volumes de données d'imagerie quantitative. *Journée Bio-informatique, BioGenOuest* (Virtual Meeting). Présenté par JO Irisson.
 
