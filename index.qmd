@@ -14,6 +14,8 @@ about:
       href: mailto:thelma.panaiotis@noc.ac.uk
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Thelma-Panaiotis
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=KcjlIbgAAAAJ&hl=en
 ---
 
 # Hi!
@@ -24,7 +26,7 @@ I am a research scientist at the National Oceanography Centre ([NOC](https://noc
 
 # Curriculum
 
-Current \| **Research Scientist**, *Zooplankton diversity in biogeochemical modelling using machine learning*, National Oceanography Centre, Southampton, UK.
+Current \| **Research Scientist**, *Zooplankton diversity in biogeochemical modelling using machine learning* (projects [CALIPSO](https://calipsovesri.org/) and [BIOcean5D](https://biocean5d.org/)), National Oceanography Centre, Southampton, UK.
 
 2019-2023 \| **PhD Thesis in Ecology**, *Plankton distribution across scales: contribution from artificial intelligence to plankton ecology*, Laboratoire d’Océanographie de Villefranche, Sorbonne Université, France. [Manuscript](reports/panaiotis_thesis_revised.pdf){target="_blank"}
 
@@ -42,7 +44,7 @@ Current \| **Research Scientist**, *Zooplankton diversity in biogeochemical mode
 
 #### **Programming**
 
--   R (tidyverse, shiny)
+-   R (tidyverse, tidymodels, shiny)
 
 -   Python (tensorflow, pytorch, scikitlearn)
 
@@ -69,6 +71,8 @@ Current \| **Research Scientist**, *Zooplankton diversity in biogeochemical mode
 ------------------------------------------------------------------------
 
 # Teaching
+
+## 2019 - 2023
 
 **Master in Marine Sciences** \| Sorbonne Université
 
