@@ -38,6 +38,10 @@ A Guez, **T Panaïotis**, H Peyre and F Ramus (2018). Predictors of the IQ-achie
 
 # Conference talks
 
+### 2024
+
+**T Panaïotis**, M Freilich, JO Irisson and BB Cael (2024). A closer look at plankton: centimetre-scale interactions revealed in situ. *Challenger Society Conference* (Oban, Scotland). [Slides](reports/2024_challenger_distances.pdf)
+
 ### 2023
 
 **T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson (2023). High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. *ASLO Aquatic Science Meeting* (Palma de Majorque, Spain). [Slides](reports/2023_aslo_rhizaria.pdf)
