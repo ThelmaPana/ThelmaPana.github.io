@@ -8,7 +8,6 @@
 library(tidyverse)
 library(FITfileR)
 library(sf)
-library(chroma)
 library(parallel)
 
 # List fit files

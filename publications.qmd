@@ -6,17 +6,19 @@ title: ""
 
 ### In progress
 
-**T Panaïotis**, J Wilson and BB Cael. A machine learning-based dissolved organic carbon climatology. Submitted to *Geophysical Research Letters*.
-
 **T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, T Biard, B Blanc, L Caray--Counil, C Desnos, A Elineau, L Jalabert, R Kiko, F Lombard, M Picheral, JB Romagnan, L Stemmann and JO Irisson. Classification benchmark for several large plankton images datasets: Convolutional Neural Networks improve detection of rare taxa. Written as PhD Thesis chapter #3, to be submitted to *Earth System Science Data*.
 
 **T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson. High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. Written as PhD Thesis chapter #6, to be submitted to *PNAS*.
+
+### 2025
+
+**T Panaïotis**, J Wilson and BB Cael. A machine learning-based dissolved organic carbon climatology. *Geophysical Research Letters, 52, 7*. [10.1029/2024GL112792](https://doi.org/10.1029/2024GL112792)
 
 ### 2024
 
 **T Panaïotis**, A Poteau, É Diamond Riquier, C Catalano, L Courchet, S Motreuil, L Coppola, M Picheral and JO Irisson. Temporal evolution of plankton and particles distribution across a mesoscale front during the spring bloom. *Limnology and Oceanography*. [10.1002/lno.12566](https://doi.org/10.1002/lno.12566)
 
-M Laget, L Drago, **T Panaïotis**, R Kiko, L Stemmann, A Rogge, N Llopis-Monferrer, A Leynaert, JO Irisson and T Biard. Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. *Nature Communications* **15**: 3341. [10.1038/s41467-024-47651-4](http://dx.doi.org/10.1038/s41467-024-47651-4)
+M Laget, L Drago, **T Panaïotis**, R Kiko, L Stemmann, A Rogge, N Llopis-Monferrer, A Leynaert, JO Irisson and T Biard. Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. *Nature Communications* 15: 3341. [10.1038/s41467-024-47651-4](http://dx.doi.org/10.1038/s41467-024-47651-4)
 
 M Dugenne, M Corrales-Ugalde, JY Luo, R Kiko, TD O'Brien, JO Irisson, F Lombard, L Stemmann, C Stock, CR Anderson, M Babin, N Bhairy, S Bonnet, F Carlotti, A Cornils, ET Crockford, P Daniel, C Desnos, L Drago, A Elineau, A Fischer, N Grandrémy, PL Grondin, L Guidi, C Guieu, H Hauss, K Hayashi, JA Huggett, L Jalabert, L Karp-Boss, KM Kenitz, RM Kudela, M Lescot, C Marec, A McDonnell, Z Mériguet, B Niehoff, M Noyon, **T Panaïotis**, E Peacock, M Picheral, E Riquier, C Roesler, JB Romagnan, HM Sosik, G Spencer, J Taucher, C Tilliette and M Vilain. First release of the Pelagic Size Structure database: global datasets of marine size spectra obtained from plankton imaging devices, Earth System Science Data, 16, 2971–2999, [10.5194/essd-16-2971-2024](https://doi.org/10.5194/essd-16-2971-2024)
 
