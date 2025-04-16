@@ -4,12 +4,12 @@ title: "Outdoor activities"
 
 Here's a map of my wanderings on land and sea (since January 2022), including cycling, running, hiking and swimming (but excluding bike commuting!)
 
-```{r}
+```{r activities_map}
 #| echo: False
 #| warning: False
 #| fig.height: 8
 
-library(tidyverse)
+library(dplyr)
 library(leaflet)
 library(sf)
 

@@ -1,0 +1,16 @@
+---
+title: "DOClimato"
+description: "A machine learning based climatology of dissolved organic carbon."
+author: "Thelma Panaïotis"
+date: "2025-04-01"
+categories: [R, machine learning, paper with code, academic]
+image: "image.gif"
+---
+
+This is the code supporting my paper on a machine learning based climatology of dissolved organic carbon (DOC).
+
+**T Panaïotis**, J Wilson and BB Cael. A machine learning-based dissolved organic carbon climatology. *Geophysical Research Letters, 52, 7.*
+
+Boosted regression trees were used to relate observed DOC concentrations to various environmental predictors. Inferred relationships were then used to predict global annual maps of DOC concentrations in the surface, epipelagic, mesopelagic and bathypelagic layers. Seasonal surface maps were also generated.
+
+<https://github.com/ThelmaPana/DOClimato>
