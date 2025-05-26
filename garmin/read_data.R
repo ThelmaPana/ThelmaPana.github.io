@@ -34,14 +34,14 @@ extract_garmin_data <- function(file){
     activity_subtype <- try(getMessagesByType(f, "sport")$sub_sport[1])
 
     # check activity type
-    if(class(activity_type) == 'try-error'){
-      activity_type <- 'unknown'
-      activity_subtype <- 'unknown'
-    }
+    #if(class(activity_type) == 'try-error'){
+    #  activity_type <- 'unknown'
+    #  activity_subtype <- 'unknown'
+    #}
 
     data <- records(f) %>%
       bind_rows() %>%
-      mutate(id = f_id, activity_type = activity_type, activity_subtype = activity_subtype, .before = timestamp) %>%
+      mutate(id = f_id, type = activity_type, subtype = activity_subtype, .before = timestamp) %>%
       arrange(timestamp)
 
     return(data)
