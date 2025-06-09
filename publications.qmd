@@ -6,9 +6,11 @@ title: ""
 
 ### In progress
 
-**T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, T Biard, B Blanc, L Caray--Counil, C Desnos, A Elineau, L Jalabert, R Kiko, F Lombard, M Picheral, JB Romagnan, L Stemmann and JO Irisson. Classification benchmark for several large plankton images datasets: Convolutional Neural Networks improve detection of rare taxa. Written as PhD Thesis chapter #3, to be submitted to *Earth System Science Data*.
+**T Panaïotis**, E Amblard, G Boniface-Chang, G Dulac-Arnold, B Woodward and JO Irisson. Benchmark of plankton images classification: emphasizing features extraction over classifier complexity. Submitted to *Earth System Science Data*. [Preprint](reports/essd-2025-309.pdf)
 
 **T Panaïotis**, T Biard, L Caray--Counil, R Faillettaz, J Luo, CM Guigand, RK Cowen and JO Irisson. High throughput in situ imaging reveals complex ecological behaviour of giant mixotrophic protists. Written as PhD Thesis chapter #6, to be submitted to *PNAS*.
+
+**T Panaïotis**, JO Irisson, M Freilich and BB Cael. A closer look at plankton: potential interactions inferred from centimeter-scale in situ observations. To be submitted to *PNAS*.
 
 ### 2025
 
