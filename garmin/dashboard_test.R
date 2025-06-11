@@ -179,4 +179,73 @@ ggplot(df) +
   theme_minimal()
 
 
+## Read db files
+library(RSQLite)
+# Read activities from SQLite db
+conn <- dbConnect(SQLite(), "~/HealthData/DBs/garmin_activities.db")
+activities <- dbReadTable(conn, 'activities') %>%
+  as_tibble()
+dbDisconnect(conn)
+
+# Keep only relevant columns
+activities <- activities %>%
+  select(name, activity_id, sport, sub_sport, start_time, duration = elapsed_time, distance) %>%
+  mutate(
+    start_time = ymd_hms(start_time) # start_time as datetime
+  )
+
+
+# List the types of activities I want to keep and generate new names
+my_types <- tribble(
+  ~sport, ~sub_sport, ~sport_type,
+  "cycling", "commuting", "bike commuting",
+  "cycling", "road", "road cycling",
+  "cycling", "gravel_cycling", "gravel cycling",
+  "cycling", "virtual_ride", "indoor cycling",
+  "cycling", "virtual_activity", "indoor cycling",
+  "running", "generic", "running",
+  "running", "trail", "trail running",
+  "swimming", "lap_swimming", "pool swimming",
+  "swimming", "open_water", "open water swimming"
+) %>%
+  mutate(sport_type = fct_inorder(sport_type))
+
+toto <- my_types %>%
+  left_join(activities, by = join_by(sport, sub_sport)) %>%
+  arrange(desc(start_time)) %>%
+  mutate(
+    year = year(start_time),
+    month = month(start_time) %>% as.factor()
+  ) %>%
+  mutate(duration = hms(duration) %>% as.duration()) %>%
+  filter(year == 2025)
+
+# Distance by type
+ggplot(toto) +
+  geom_col(aes(x = sport_type, y = distance))
+
+ggplot(toto) +
+  geom_col(aes(x = sport_type, y = duration)) +
+  scale_y_time()
+
+
+
+# Sum by month
+titi <- toto %>%
+  group_by(sport_type, month) %>%
+  summarise(
+    distance = sum(distance),
+    duration = sum(duration),
+    .groups = "drop"
+  )
+
+# Plot distance by month
+ggplot(titi) +
+  geom_col(aes(x = month, y = distance, fill = sport_type), position = "dodge")
+
+# Plot duration by month
+ggplot(titi) +
+  geom_col(aes(x = month, y = duration, fill = sport_type), position = "dodge") +
+  scale_y_time()
+
 
