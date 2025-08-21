@@ -1,5 +1,8 @@
 ---
 title: "Outdoor activities"
+format:
+  html:
+    self-contained: false
 ---
 
 Here's a map of my wanderings on land and sea (since January 2022), including cycling, running, hiking and swimming (but excluding bike commuting!)
