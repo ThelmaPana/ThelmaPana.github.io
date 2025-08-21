@@ -1,0 +1,24 @@
+---
+title: "Plankton classification benchmark"
+description: "Benchmark of plankton image classification"
+author: "Thelma Panaïotis"
+date: "2025-06-06"
+categories: [R, Python, machine learning, paper with code, academic]
+image: "image.png"
+---
+
+I recently worked on a benchmarking framework for **plankton image classification** across multiple imaging systems (IFCB, FlowCam, ISIIS, ZooCam, ZooScan, UVP6). The project compares **Convolutional Neural Networks (CNN)** and **Random Forest classifiers**, highlighting the **importance of feature extraction vs. classifier complexity**.
+
+The repo includes:
+
+-   Data preparation scripts for multiple plankton imaging datasets (SeaNoe, WHOI IFCB)
+
+-   Training pipelines for CNNs (EfficientNet, MobileNet) and Random Forests
+
+-   Tools to extract deep features and apply dimensionality reduction (PCA)
+
+-   Evaluation scripts for performance metrics and visualization
+
+This work supported the paper "[Benchmark of plankton images classification: emphasizing features extraction over classifier complexity](https://essd.copernicus.org/preprints/essd-2025-309/)".
+
+Check out the repo here: <https://github.com/ThelmaPana/plankton_classif>
