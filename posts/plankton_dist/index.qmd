@@ -1,0 +1,24 @@
+---
+title: "PlanktonDist"
+description: "Investigate in situ centimeter-scale distances in plankton"
+author: "Thelma Panaïotis"
+date: "2025-08-21"
+categories: [R, data analysis, paper with code, academic]
+image: "image.png"
+---
+
+PlanktonDist is an R-based pipeline to study the spatial distribution of planktonic organisms at the centimeter scale. The hypothesis driving this work is that in situ physical distances between organisms carry ecological information that can help infer ecological interactions.
+
+The workflow includes:
+
+- Comparing observed distances to those expected under a random distribution of planktonic organisms (overall, intra- and inter-group)
+
+- Evaluating inferred associations against size-based and co-occurrence metrics
+
+- Implementing and fitting a simple agent-based attraction model to reproduce observed spatial patterns
+
+The repository provides scripts for data cleaning, distance computation, null dataset generation, and model fitting, with outputs in the form of association matrices and figures.
+
+This work has been submitted to PNAS.
+
+Check out the repo here: <https://github.com/ThelmaPana/PlanktonDist>

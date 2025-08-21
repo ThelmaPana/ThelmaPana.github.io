@@ -2,6 +2,11 @@
   {
     "listing": "/posts.html",
     "items": [
+<<<<<<< HEAD
+=======
+      "/posts/plankton_dist/index.html",
+      "/posts/plankton_classif/index.html",
+>>>>>>> 12ea2fd... New post on plankton distances
       "/posts/DOClimato/index.html",
       "/posts/RideR/index.html",
       "/posts/glider_uvp6/index.html",
