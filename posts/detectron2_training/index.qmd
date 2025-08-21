@@ -3,7 +3,7 @@ title: "Detectron2 plankton training"
 description: "Train Detectron2 on ISIIS plankton images."
 author: "Thelma Panaïotis"
 date: "2021-04-08"
-categories: [Python, data processing, paper with code, academic]
+categories: [Python, machine learning, data processing, paper with code, academic]
 image: "image.png"
 ---
 
@@ -11,4 +11,4 @@ This is the code to train the CNN-based detector [Detectron2](https://github.com
 
 <https://github.com/ThelmaPana/Detectron2_plankton_training>
 
-The trained model is then used in [apeep](https://github.com/jiho/apeep) to detect planktonic organisms in ISIIS images. This is part of the work on the segmentation of plankton images published in Frontiers in Marine Science: [10.3389/fmars.2022.870005](https://doi.org/10.3389/fmars.2022.870005). 
+The trained model is then used in [apeep](https://github.com/jiho/apeep) to detect planktonic organisms in ISIIS images. This is part of the work on the segmentation of plankton images published in Frontiers in Marine Science: [10.3389/fmars.2022.870005](https://doi.org/10.3389/fmars.2022.870005).
